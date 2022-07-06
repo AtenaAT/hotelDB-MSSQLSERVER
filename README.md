@@ -39,4 +39,20 @@ bridge table :reservationInfo
 room-reservationInfo-guestInfo
 
 
+
+
+
+
+
 for inserting data, I used "https://www.mockaroo.com/" in "data.sql"
+
+
+
+
+
+
+
+
+
+
+also I added about 14 queries in "hotelQQ.sql"
